@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @teddymas95
-- 👀 I’m interested in ... NLP
-- 🌱 I’m currently learning ... MSc in Computer Science 
-- 💞️ I’m looking to collaborate on ... anything in NLP
-- 📫 How to reach me ... tbizuneh2024@cic.ipn.mx or teddymas97@gmail.com
-- 😄 Pronouns: ... you can call me Teddy 
-- ⚡ Fun fact: ... Not much 
+# Hi there 👋, I'm Tewodros Achamaleh 
 
-<!---
-teddymas95/teddymas95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MSc Computer Science student at Instituto Politécnico Nacional, Mexico  
+🌍 Originally from Ethiopia | Multilingual NLP & AI enthusiast  
+💡 Passionate about low-resource language technology, open-source, and research  
+🔧 Skilled in Python, Transformers, Data Engineering, and Full Stack Development  
+🧪 Active member of ACL, Black in AI, and EthioNLP  
+
+## 🚀 Current Projects
+- Multilingual Emotion & Sentiment Analysis  
+- Low-resource Machine Translation (English ↔ Amharic/Oromo)  
+- Hate & Hope Speech Detection in Code-mixed Texts  
+- Fake News Detection for Dravidian Languages  
+
+## 📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/teddymas16/)  
+- [Google Scholar](https://scholar.google.com/citations?user=vODJs98AAAAJ&hl=en&authuser=1)  
+- [Twitter](@TeddyMas1)  
+- Email: teddymas97@gmail.com , tbizuneh2024@cic.ipn.mx
+
+> “Building inclusive NLP for all languages.”
+
