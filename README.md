@@ -15,7 +15,6 @@
 ## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/teddymas16/)  
 - [Google Scholar](https://scholar.google.com/citations?user=vODJs98AAAAJ&hl=en&authuser=1)  
-- [Twitter](@TeddyMas1)  
 - Email: teddymas97@gmail.com , tbizuneh2024@cic.ipn.mx
 
 > “Building inclusive NLP for all languages.”
